@@ -5,7 +5,7 @@ The task was to generate and calculate a trinomial triangles coefficients.
 
 ![Formula](https://render.githubusercontent.com/render/math?math=%5Ctext%7BThe%20%7D%20n_%7Bth%7D%20%5Ctext%7B%20central%20trinomial%20coefficient%20is%20%7D%20x%5En)
 ![Formula](https://render.githubusercontent.com/render/math?math=%5Ctext%7BIn%20the%20expansion%20of%20%7D(1%20%2B%20x%20%2B%20x%5E2)%5E2)
-This represents the middle of the trinomial triangle, also called the trinomial coefficient.
+![Formula](https://render.githubusercontent.com/render/math?math=%5Ctext%7BThis%20represents%20the%20middle%20of%20the%20trinomial%20triangle%2C%20also%20called%20the%20trinomial%20coefficient.%7D)
 ![Formula](https://render.githubusercontent.com/render/math?math=%5Ctext%7BThis%20can%20be%20presented%20by%20%7D%5Cleft%20(%5Cfrac%7Bn%7D%7B0%7D%5Cright%20)_2%20)
 
 
